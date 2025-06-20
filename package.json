@@ -19,6 +19,7 @@
     "react-dom": "^19.0.0",
     "react-hook-form": "^7.58.1",
     "stripe": "^18.2.1",
+    "trpc": "^0.8.2",
     "zod": "^3.25.67"
   },
   "devDependencies": {
